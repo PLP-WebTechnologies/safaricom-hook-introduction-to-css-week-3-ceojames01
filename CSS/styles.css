@@ -1,0 +1,15 @@
+a:link{
+    color: turquoise;
+}
+
+a:hover{
+    color: green;
+}
+
+a:visited{
+    color: rgb(173, 9, 97);
+}
+
+body{
+    background-color: khaki;
+}

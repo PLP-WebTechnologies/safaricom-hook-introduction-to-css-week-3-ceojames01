@@ -1,0 +1,17 @@
+  /* Element Selector */
+  h1 {
+    font-size: 2.5em;
+    color: royalblue;
+}
+
+/* Class Selector */
+.highlight {
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+/* ID Selector */
+#unique-section {
+    border: 2px solid black;
+    padding: 15px;
+}
